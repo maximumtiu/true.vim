@@ -4,7 +4,7 @@
 " URL: https://github.com/megantiu/true-vim
 " Author: Megan Tiu
 " License: MIT
-" Last Change: 2019/12/29 14:51
+" Last Change: 2019/12/29 15:20
 " ===============================================================
 
 set background=dark
@@ -32,14 +32,14 @@ hi Cursor guifg=#cad7e5 ctermfg=188 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#303030 ctermbg=236 gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#303030 ctermbg=236 gui=NONE cterm=NONE
 hi DiffAdd guifg=#00ff00 ctermfg=10 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
-hi DiffChange guifg=#fad000 ctermfg=220 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
+hi DiffChange guifg=#ffd802 ctermfg=220 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
 hi DiffDelete guifg=#FF000D ctermfg=9 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
 hi DiffText guifg=#dadada ctermfg=253 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
 hi ErrorMsg guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VertSplit guifg=#3e3e3e ctermfg=237 guibg=#3e3e3e ctermbg=237 gui=NONE cterm=NONE
 hi SignColumn guifg=#dadada ctermfg=253 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
 hi LineNr guifg=#9ba5b0 ctermfg=248 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
-hi CursorLineNr guifg=#fad000 ctermfg=220 guibg=NONE ctermbg=NONE gui=Bold cterm=Bold
+hi CursorLineNr guifg=#ffd802 ctermfg=220 guibg=NONE ctermbg=NONE gui=Bold cterm=Bold
 hi MatchParen guifg=#301b38 ctermfg=236 guibg=#dadada ctermbg=253 gui=NONE cterm=NONE
 hi NonText guifg=#dadada ctermfg=253 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#dadada ctermfg=253 guibg=#301b38 ctermbg=236 gui=NONE cterm=NONE
@@ -63,12 +63,12 @@ hi PreProc guifg=#d7ff00 ctermfg=190 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Define guifg=#bc70ff ctermfg=135 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Type guifg=#ffd802 ctermfg=220 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Error guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Todo guifg=#4d21fc ctermfg=57 guibg=#fad000 ctermbg=220 gui=Bold cterm=Bold
+hi Todo guifg=#4d21fc ctermfg=57 guibg=#ffd802 ctermbg=220 gui=Bold cterm=Bold
 hi CtrlPMatch guifg=#00ffff ctermfg=14 guibg=NONE ctermbg=NONE gui=Bold cterm=Bold
 hi mustacheConditionals guifg=#ff8700 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeDirSlash guifg=#45ffc8 ctermfg=86 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeLinkTarget guifg=#45ffc8 ctermfg=86 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi NERDTreeLinkFile guifg=#ff628c ctermfg=204 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeLinkFile guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeDir guifg=#0087ff ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 
 
