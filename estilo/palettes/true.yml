@@ -37,6 +37,13 @@ hoverBackground: "#4d21fc"
 #objectKeys: "#80ffbb"
 #peachy: '#ffb0af'
 
+airlineInsert1: '#000080'
+airlineVisual3: '#c75300'
+airlineInactiveFg: '#4e4e4e'
+airlineInactive1: '#1c1c1c'
+airlineInactive2: '#262626'
+airlineInactive3: '#303030'
+
 # nova
 #foreground    : "#ECEFF1"
 #inconspicuous : "#B0BEC5"
