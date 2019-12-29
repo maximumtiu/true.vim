@@ -1,0 +1,85 @@
+# BASE UI
+ColorColumn: '- line'
+Conceal: ''
+Cursor: 'grey'
+CursorIM: ''
+CursorColumn: '- line'
+CursorLine: '- line'
+Directory: ''
+DiffAdd: 'diffAdded gutter'
+DiffChange: 'contrast gutter'
+DiffDelete: 'diffRemoved gutter'
+DiffText: 'foreground gutter'
+ErrorMsg: 'red'
+VertSplit: 'window window'
+Folded: ''
+FoldColumn: ''
+SignColumn: 'foreground gutter'
+IncSearch: ''
+LineNr: 'lineNumber gutter'
+CursorLineNr: 'contrast - b'
+MatchParen: 'background foreground'
+ModeMsg: ''
+MoreMsg: ''
+NonText: 'foreground'
+Normal: 'foreground background'
+PMenu: ''
+PMenuSel: ''
+PmenuSbar: ''
+PmenuThumb: ''
+Question: ''
+Search: ''
+SpecialKey: ''
+SpellBad: ''
+SpellLocal: ''
+SpellCap: ''
+SpellRare: ''
+StatusLine: ''
+StatusLineNC: ''
+TabLine: 'foreground backgroundLight'
+TabLineFill: 'foreground gutter'
+TabLineSel: 'foreground deep_purple'
+Title: ''
+Visual: '- match'
+VisualNOS: ''
+WarningMsg: ''
+WildMenu: ''
+# BASE SYNTAX
+Comment: 'teal'
+Constant: 'constantModule'
+String: 'pink' # Constant
+Character: '' # Constant
+Boolean: 'orange' # Constant
+Number: 'aqua' # Constant
+Float: 'aqua' # Constant
+Identifier: 'yellow'
+Function: 'blue' # Identifier
+Statement: 'red'
+Conditional: 'yellow' # Statement
+Repeat: '' # Statement
+Label: '' # Statement
+Operator: 'pink' # Statement
+Keyword: 'aqua' # Statement
+Exception: '' # Statement
+PreProc: 'yellow'
+Include: '' # PreProc
+#Define: 'green' # PreProc
+Define: 'purple' # PreProc
+Macro: '' # PreProc
+PreCondit: '' # PreProc
+Type: 'amber'
+StorageClass: '' # Type
+Structure: '' # Type
+Typedef: '' # Type
+Special: ''
+SpecialChar: '' # Special
+Tag: '' # Special
+Delimiter: '' # Special
+SpecialComment: '' # Special
+Debug: '' # Special
+Underlined: ''
+Ignore: ''
+Error: 'red'
+Todo: 'hoverBackground contrast b'
+CtrlPMatch: 'aqua'
+mustacheConditionals: 'orange'

@@ -1,0 +1,15 @@
+name: 'true'
+version: '1.0.0'
+license: 'MIT'
+author: 'Megan Tiu'
+url: 'https://github.com/megantiu/true-vim'
+description: ''
+colorschemes:
+  - name: true
+    background: 'dark'
+    palette: true
+airline:
+  - name: true 
+    palette: true
+    style: true
+

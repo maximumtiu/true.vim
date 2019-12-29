@@ -1,0 +1,82 @@
+backgroundLight: '#42264d'
+background: '#301b38'
+foreground: '#dadada'
+grey: "#cad7e5"
+match: '#a599e9'
+deep_purple   : "#7e57c2"
+purple: '#bc70ff'
+indigo: "#5c6bc0"
+teal: '#0089ba'
+blue: '#0087ff'
+aqua: '#00ffff'
+constantModule: '#45ffc8'
+diffAdded: "#00ff00"
+green: '#5fff5f'
+yellow: '#d7ff00'
+amber         : "#ffd802"
+contrast: "#fad000"
+orange: '#ff8700'
+red: '#ff5f5f'
+constants: "#ff628c"
+diffRemoved: "#FF000D"
+pink: '#ff45ff'
+definitions: "#fb94ff"
+
+line: '#303030'
+#selection: '#3a3a3a'
+lineNumber: '#9ba5b0'
+#comment: '#969696'
+window: '#3e3e3e'
+gutter: "#28284e"
+hoverBackground: "#4d21fc"
+#contrastLite: "#ffee80"
+#contrastLiteII: "#faefa5"
+#commentsLite: "#c991ff"
+#comment: "#b362ff"
+#constantsLite: "#ff91ae"
+#objectKeys: "#80ffbb"
+#peachy: '#ffb0af'
+
+# nova
+#foreground    : "#ECEFF1"
+#inconspicuous : "#B0BEC5"
+#selection     : "#455A64"
+#line          : "#37474F"
+#background    : "#263238"
+
+#red           : "#EF5350"
+#pink          : "#EC407A"
+#purple        : "#AB47BC"
+#blue          : "#42A5F5"
+#light_blue    : "#29B6F6"
+#cyan          : "#26C6DA"
+#teal          : "#26A69A"
+#green         : "#66BB6A"
+#light_green   : "#9CCC65"
+#lime          : "#D4E157"
+#yellow        : "#FFEE58"
+#amber         : "#FFCA28"
+#orange        : "#FFA726"
+#deep_orange   : "#FF7043"
+
+# shades_of_purple
+#white: "#E1EFFF"
+#background: "#2D2B55"
+#backgroundDark: "#1E1E3F"
+#foreground: "#A599E9"
+#highlight: "#FF7200"
+#keywords: "#FF9D00"
+#other: "#9EFFFF"
+#strings: "#A5FF90"
+#stringsLite: "#d2ffc7"
+#jsonString: "#92FC79"
+#darkerStrings: "#73b264"
+#templates: "#75e44c"
+#invalid: "#EC3A37"
+#matchBracket: "#AD70FC"
+#menuBackground: "#1F1F41"
+#searchHighlight: "#FFFF03"
+#currentSearch: "#ff7300"
+# This should be similar to `comment`
+#selectionBackground: "#7d44b2"
+#cssEntity: "#3AD900"
