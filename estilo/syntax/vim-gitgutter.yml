@@ -1,0 +1,5 @@
+# GitGutter airblade/vim-gitgutter
+GitGutterAdd: 'green gutter b'
+GitGutterChange: 'amber gutter b'
+GitGutterDelete: 'red gutter b'
+GitGutterChangeDelete: 'amber gutter b'
