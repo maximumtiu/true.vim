@@ -4,7 +4,7 @@
 " URL: https://github.com/megantiu/true-vim
 " Author: Megan Tiu
 " License: MIT
-" Last Change: 2019/12/29 10:43
+" Last Change: 2019/12/29 14:51
 " ===============================================================
 
 set background=dark
@@ -64,7 +64,7 @@ hi Define guifg=#bc70ff ctermfg=135 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Type guifg=#ffd802 ctermfg=220 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Error guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Todo guifg=#4d21fc ctermfg=57 guibg=#fad000 ctermbg=220 gui=Bold cterm=Bold
-hi CtrlPMatch guifg=#00ffff ctermfg=14 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CtrlPMatch guifg=#00ffff ctermfg=14 guibg=NONE ctermbg=NONE gui=Bold cterm=Bold
 hi mustacheConditionals guifg=#ff8700 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeDirSlash guifg=#45ffc8 ctermfg=86 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeLinkTarget guifg=#45ffc8 ctermfg=86 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
