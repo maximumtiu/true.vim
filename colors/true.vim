@@ -4,7 +4,7 @@
 " URL: https://github.com/megantiu/true-vim
 " Author: Megan Tiu
 " License: MIT
-" Last Change: 2019/12/29 15:20
+" Last Change: 2019/12/29 15:24
 " ===============================================================
 
 set background=dark
@@ -31,9 +31,9 @@ hi ColorColumn guifg=NONE ctermfg=NONE guibg=#303030 ctermbg=236 gui=NONE cterm=
 hi Cursor guifg=#cad7e5 ctermfg=188 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#303030 ctermbg=236 gui=NONE cterm=NONE
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#303030 ctermbg=236 gui=NONE cterm=NONE
-hi DiffAdd guifg=#00ff00 ctermfg=10 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
+hi DiffAdd guifg=#5fff5f ctermfg=83 guibg=#28284e ctermbg=235 gui=Bold cterm=Bold
 hi DiffChange guifg=#ffd802 ctermfg=220 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
-hi DiffDelete guifg=#FF000D ctermfg=9 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
+hi DiffDelete guifg=#ff5f5f ctermfg=203 guibg=#28284e ctermbg=235 gui=Bold cterm=Bold
 hi DiffText guifg=#dadada ctermfg=253 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
 hi ErrorMsg guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VertSplit guifg=#3e3e3e ctermfg=237 guibg=#3e3e3e ctermbg=237 gui=NONE cterm=NONE

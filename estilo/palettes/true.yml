@@ -22,8 +22,6 @@ line           : '#303030'
 lineNumber     : '#9ba5b0'
 window         : '#3e3e3e'
 gutter         : "#28284e"
-diffRemoved    : "#FF000D"
-diffAdded      : "#00ff00"
 
 # airline-specific colors
 airlineInsert1   : '#000080'
