@@ -4,7 +4,7 @@
 " URL: https://github.com/megantiu/true-vim
 " Author: Megan Tiu
 " License: MIT
-" Last Change: 2019/12/29 23:22
+" Last Change: 2019/12/29 23:32
 " ===============================================================
 
 set background=dark
@@ -36,10 +36,10 @@ hi DiffChange guifg=#ffd802 ctermfg=220 guibg=#28284e ctermbg=235 gui=Bold cterm
 hi DiffDelete guifg=#ff5f5f ctermfg=203 guibg=#28284e ctermbg=235 gui=Bold cterm=Bold
 hi DiffText guifg=#dadada ctermfg=253 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
 hi ErrorMsg guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi VertSplit guifg=#3e3e3e ctermfg=237 guibg=#3e3e3e ctermbg=237 gui=NONE cterm=NONE
+hi VertSplit guifg=#303030 ctermfg=236 guibg=#303030 ctermbg=236 gui=NONE cterm=NONE
 hi SignColumn guifg=#dadada ctermfg=253 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
 hi LineNr guifg=#9ba5b0 ctermfg=248 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
-hi CursorLineNr guifg=#ffd802 ctermfg=220 guibg=NONE ctermbg=NONE gui=Bold cterm=Bold
+hi CursorLineNr guifg=#ffd802 ctermfg=220 guibg=#28284e ctermbg=235 gui=Bold cterm=Bold
 hi MatchParen guifg=#301b38 ctermfg=236 guibg=#dadada ctermbg=253 gui=NONE cterm=NONE
 hi NonText guifg=#dadada ctermfg=253 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#dadada ctermfg=253 guibg=#301b38 ctermbg=236 gui=NONE cterm=NONE
