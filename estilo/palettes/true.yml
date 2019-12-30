@@ -26,7 +26,7 @@ gutter         : "#28284e"
 # airline-specific colors
 airlineInsert1   : '#000080'
 airlineVisual3   : '#c75300'
+airlineReplace3  : '#c7346c'
 airlineInactiveFg: '#4e4e4e'
 airlineInactive1 : '#1c1c1c'
 airlineInactive2 : '#262626'
-airlineInactive3 : '#303030'

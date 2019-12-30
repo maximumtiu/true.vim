@@ -4,7 +4,7 @@
 " URL:https://github.com/megantiu/true-vim
 " Author: Megan Tiu
 " License: MIT
-" Last Change: 2019/12/29 15:24
+" Last Change: 2019/12/30 09:52
 " ============================================================
 
 let g:airline#themes#true#palette = {}
@@ -25,9 +25,9 @@ let g:airline#themes#true#palette.insert_modified = {
       \ 'airline_c': [ '#dadada' , '#4d21fc' , 255     , 53      , ''     ] ,
       \ }
 
-let s:replace1 = [ "#000080", "#00ffff", 4, 14 ]
-let s:replace2 = [ "#dadada", "#ff5f5f", 253, 203 ]
-let s:replace3 = [ "#dadada", "#000080", 253, 4 ]
+let s:replace1 = [ "#301b38", "#ff45ff", 4, 14 ]
+let s:replace2 = [ "#301b38", "#ff5f5f", 253, 203 ]
+let s:replace3 = [ "#dadada", "#c7346c", 253, 4 ]
 let g:airline#themes#true#palette.replace = airline#themes#generate_color_map(s:replace1, s:replace2, s:replace3)
 let g:airline#themes#true#palette.replace_modified = g:airline#themes#true#palette.insert_modified
 
