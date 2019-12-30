@@ -58,7 +58,7 @@ Statement: 'red'
 Conditional: 'yellow' # Statement
 Repeat: '' # Statement
 Label: '' # Statement
-Operator: 'pink' # Statement
+Operator: 'green' # Statement
 Keyword: 'aqua' # Statement
 Exception: '' # Statement
 PreProc: 'yellow'
@@ -71,7 +71,7 @@ Type: 'amber'
 StorageClass: '' # Type
 Structure: '' # Type
 Typedef: '' # Type
-Special: ''
+Special: 'orange'
 SpecialChar: '' # Special
 Tag: '' # Special
 Delimiter: '' # Special
@@ -81,5 +81,3 @@ Underlined: ''
 Ignore: ''
 Error: 'red'
 Todo: 'hoverBackground amber b'
-CtrlPMatch: 'aqua - b'
-mustacheConditionals: 'orange'

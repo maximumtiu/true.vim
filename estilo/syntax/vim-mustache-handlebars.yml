@@ -1,0 +1,17 @@
+# mustache/vim-mustache-handlebars
+mustacheVariable: '' # Number
+mustacheVariableUnescape: '' # Number
+mustachePartial: '' # Number
+mustacheSection: '' # Number
+mustacheMarkerSet: '' # Number
+mustacheComment: '' # Comment
+mustacheBlockComment: '' # Comment
+mustacheError: '' # Error
+mustacheInsideError: '' # Error
+mustacheHandlebars: '' # Special
+mustacheUnescape: '' # Identifier
+mustacheOperators: 'green' # Operator
+mustacheConditionals: 'orange' # Conditional
+mustacheHelpers: 'brightTeal' # Repeat
+mustacheQString: '' # String
+mustacheDQString: '' # String

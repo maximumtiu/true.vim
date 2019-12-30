@@ -4,7 +4,7 @@
 " URL: https://github.com/megantiu/true-vim
 " Author: Megan Tiu
 " License: MIT
-" Last Change: 2019/12/29 15:39
+" Last Change: 2019/12/29 23:22
 " ===============================================================
 
 set background=dark
@@ -57,19 +57,32 @@ hi Identifier guifg=#d7ff00 ctermfg=190 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi Function guifg=#0087ff ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Statement guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Conditional guifg=#d7ff00 ctermfg=190 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Operator guifg=#ff45ff ctermfg=207 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Operator guifg=#5fff5f ctermfg=83 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Keyword guifg=#00ffff ctermfg=14 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi PreProc guifg=#d7ff00 ctermfg=190 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Define guifg=#bc70ff ctermfg=135 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Type guifg=#ffd802 ctermfg=220 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Special guifg=#ff8700 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Error guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Todo guifg=#4d21fc ctermfg=57 guibg=#ffd802 ctermbg=220 gui=Bold cterm=Bold
 hi CtrlPMatch guifg=#00ffff ctermfg=14 guibg=NONE ctermbg=NONE gui=Bold cterm=Bold
-hi mustacheConditionals guifg=#ff8700 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi jsModuleKeyword guifg=#45ffc8 ctermfg=86 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi jsObjectKey guifg=#a599e9 ctermfg=140 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi jsTemplateExpression guifg=#45ffc8 ctermfg=86 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeDirSlash guifg=#45ffc8 ctermfg=86 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeLinkTarget guifg=#45ffc8 ctermfg=86 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeLinkFile guifg=#ff5f5f ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeDir guifg=#0087ff ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi rubyMacro guifg=#0087ff ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi rubyException guifg=#d7ff00 ctermfg=190 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi rubyOperator guifg=#5fff5f ctermfg=83 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi GitGutterAdd guifg=#5fff5f ctermfg=83 guibg=#28284e ctermbg=235 gui=Bold cterm=Bold
+hi GitGutterChange guifg=#ffd802 ctermfg=220 guibg=#28284e ctermbg=235 gui=Bold cterm=Bold
+hi GitGutterDelete guifg=#ff5f5f ctermfg=203 guibg=#28284e ctermbg=235 gui=Bold cterm=Bold
+hi GitGutterChangeDelete guifg=#ffd802 ctermfg=220 guibg=#28284e ctermbg=235 gui=Bold cterm=Bold
+hi mustacheOperators guifg=#5fff5f ctermfg=83 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi mustacheConditionals guifg=#ff8700 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi mustacheHelpers guifg=#45ffc8 ctermfg=86 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 
 
 " ===================================

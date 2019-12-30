@@ -1,0 +1,4 @@
+# pangloss/vim-javascript
+jsModuleKeyword: 'brightTeal'
+jsObjectKey: 'match'
+jsTemplateExpression: 'brightTeal'
