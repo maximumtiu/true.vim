@@ -4,7 +4,7 @@
 " URL: https://github.com/megantiu/true-vim
 " Author: Megan Tiu
 " License: MIT
-" Last Change: 2019/12/29 23:32
+" Last Change: 2019/12/30 19:49
 " ===============================================================
 
 set background=dark

@@ -80,4 +80,4 @@ Debug: '' # Special
 Underlined: ''
 Ignore: ''
 Error: 'red'
-Todo: 'hoverBackground amber b'
+Todo: 'indigo amber b'

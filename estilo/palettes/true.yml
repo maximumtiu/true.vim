@@ -5,7 +5,7 @@ grey           : '#cad7e5'
 match          : '#a599e9'
 purple         : '#bc70ff'
 deepPurple     : '#7e57c2'
-hoverBackground: "#4d21fc"
+indigo         : "#4d21fc"
 teal           : '#0089ba'
 blue           : '#0087ff'
 aqua           : '#00ffff'
