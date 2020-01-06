@@ -2,7 +2,7 @@ backgroundLight: '#42264d'
 background     : '#301b38'
 foreground     : '#dadada'
 grey           : '#cad7e5'
-match          : '#a599e9'
+violet         : '#a599e9'
 purple         : '#bc70ff'
 deepPurple     : '#7e57c2'
 indigo         : "#4d21fc"
