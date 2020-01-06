@@ -58,7 +58,7 @@ Color | Name
 --- | ---
 ![#301b38](https://placehold.it/15/301b38/000000?text=+) **`#301b38`** | Background
 ![#dadada](https://placehold.it/15/dadada/000000?text=+) **`#dadada`** | Foreground
-![#a599e9](https://placehold.it/15/a599e9/000000?text=+) **`#a599e9`** | Match
+![#a599e9](https://placehold.it/15/a599e9/000000?text=+) **`#a599e9`** | Violet
 ![#bc70ff](https://placehold.it/15/bc70ff/000000?text=+) **`#bc70ff`** | Purple
 ![#7e57c2](https://placehold.it/15/7e57c2/000000?text=+) **`#7e57c2`** | Deep Purple
 ![#0089ba](https://placehold.it/15/0089ba/000000?text=+) **`#0089ba`** | Teal
