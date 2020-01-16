@@ -2,7 +2,7 @@ name: 'true'
 version: '1.0.0'
 license: 'MIT'
 author: 'Megan Tiu'
-url: 'https://github.com/megantiu/true-vim'
+url: 'https://github.com/megantiu/true.vim'
 description: ''
 colorschemes:
   - name: true

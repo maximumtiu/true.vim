@@ -1,7 +1,7 @@
 " ============================================================
 " true
 "
-" URL:https://github.com/megantiu/true-vim
+" URL:https://github.com/megantiu/true.vim
 " Author: Megan Tiu
 " License: MIT
 " Last Change: 2019/12/30 09:52
