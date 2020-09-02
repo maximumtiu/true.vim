@@ -4,7 +4,7 @@
 " URL: https://github.com/megantiu/true.vim
 " Author: Megan Tiu
 " License: MIT
-" Last Change: 2020/01/06 12:48
+" Last Change: 2020/09/01 22:46
 " ===============================================================
 
 set background=dark
@@ -43,6 +43,8 @@ hi CursorLineNr guifg=#ffd802 ctermfg=220 guibg=#28284e ctermbg=235 gui=Bold cte
 hi MatchParen guifg=#301b38 ctermfg=236 guibg=#dadada ctermbg=253 gui=NONE cterm=NONE
 hi NonText guifg=#dadada ctermfg=253 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Normal guifg=#dadada ctermfg=253 guibg=#301b38 ctermbg=236 gui=NONE cterm=NONE
+hi PMenu guifg=#cad7e5 ctermfg=188 guibg=#7e57c2 ctermbg=97 gui=NONE cterm=NONE
+hi PMenuSel guifg=#7e57c2 ctermfg=97 guibg=#cad7e5 ctermbg=188 gui=Bold cterm=Bold
 hi TabLine guifg=#dadada ctermfg=253 guibg=#42264d ctermbg=238 gui=NONE cterm=NONE
 hi TabLineFill guifg=#dadada ctermfg=253 guibg=#28284e ctermbg=235 gui=NONE cterm=NONE
 hi TabLineSel guifg=#dadada ctermfg=253 guibg=#7e57c2 ctermbg=97 gui=NONE cterm=NONE
