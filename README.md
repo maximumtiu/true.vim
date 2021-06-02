@@ -56,22 +56,28 @@ This doesn't include all accent colors, but contains all the main colors used in
 
 Color | Name
 --- | ---
-![#301b38](https://placehold.it/15/301b38/000000?text=+) **`#301b38`** | Background
-![#dadada](https://placehold.it/15/dadada/000000?text=+) **`#dadada`** | Foreground
-![#a599e9](https://placehold.it/15/a599e9/000000?text=+) **`#a599e9`** | Violet
-![#bc70ff](https://placehold.it/15/bc70ff/000000?text=+) **`#bc70ff`** | Purple
-![#7e57c2](https://placehold.it/15/7e57c2/000000?text=+) **`#7e57c2`** | Deep Purple
-![#0089ba](https://placehold.it/15/0089ba/000000?text=+) **`#0089ba`** | Teal
-![#0087ff](https://placehold.it/15/0087ff/000000?text=+) **`#0087ff`** | Blue
-![#00ffff](https://placehold.it/15/00ffff/000000?text=+) **`#00ffff`** | Aqua
-![#45ffc8](https://placehold.it/15/45ffc8/000000?text=+) **`#45ffc8`** | Bright Teal
-![#5fff5f](https://placehold.it/15/5fff5f/000000?text=+) **`#5fff5f`** | Green
-![#d7ff00](https://placehold.it/15/d7ff00/000000?text=+) **`#d7ff00`** | Yellow
-![#ffd802](https://placehold.it/15/ffd802/000000?text=+) **`#ffd802`** | Amber
-![#ff8700](https://placehold.it/15/ff8700/000000?text=+) **`#ff8700`** | Orange
-![#ff5f5f](https://placehold.it/15/ff5f5f/000000?text=+) **`#ff5f5f`** | Red
-![#ff45ff](https://placehold.it/15/ff45ff/000000?text=+) **`#ff45ff`** | Pink
+![#301b38](https://via.placeholder.com/15/301b38/000000?text=+) **`#301b38`** | Background
+![#dadada](https://via.placeholder.com/15/dadada/000000?text=+) **`#dadada`** | Foreground
+![#a599e9](https://via.placeholder.com/15/a599e9/000000?text=+) **`#a599e9`** | Violet
+![#bc70ff](https://via.placeholder.com/15/bc70ff/000000?text=+) **`#bc70ff`** | Purple
+![#7e57c2](https://via.placeholder.com/15/7e57c2/000000?text=+) **`#7e57c2`** | Deep Purple
+![#0089ba](https://via.placeholder.com/15/0089ba/000000?text=+) **`#0089ba`** | Teal
+![#0087ff](https://via.placeholder.com/15/0087ff/000000?text=+) **`#0087ff`** | Blue
+![#00ffff](https://via.placeholder.com/15/00ffff/000000?text=+) **`#00ffff`** | Aqua
+![#45ffc8](https://via.placeholder.com/15/45ffc8/000000?text=+) **`#45ffc8`** | Bright Teal
+![#5fff5f](https://via.placeholder.com/15/5fff5f/000000?text=+) **`#5fff5f`** | Green
+![#d7ff00](https://via.placeholder.com/15/d7ff00/000000?text=+) **`#d7ff00`** | Yellow
+![#ffd802](https://via.placeholder.com/15/ffd802/000000?text=+) **`#ffd802`** | Amber
+![#ff8700](https://via.placeholder.com/15/ff8700/000000?text=+) **`#ff8700`** | Orange
+![#ff5f5f](https://via.placeholder.com/15/ff5f5f/000000?text=+) **`#ff5f5f`** | Red
+![#ff45ff](https://via.placeholder.com/15/ff45ff/000000?text=+) **`#ff45ff`** | Pink
 
 ## Contributing
 
 This color scheme was originally developed with Ruby and EmberJS in mind, and I'll continue to add more config as I move through my everyday work. If you'd like to see any other language-specific [syntax files](https://github.com/megantiu/true.vim/tree/master/estilo/syntax), please do feel free to fork this repository and open an Pull Request!
+
+## True Adaptations
+
+Here's where you can find the True color scheme on other platforms:
+
+* [Konsole](https://github.com/Mxrcon/true-konsole) by @Mxrcron
