@@ -11,7 +11,7 @@ A delightful dark 24-bit color scheme for Vim inspired by [`shades_of_purple`](h
 1. Using your favorite vim plugin manager ([Vundle](https://github.com/VundleVim/Vundle.vim), [Pathogen](https://github.com/tpope/vim-pathogen), [vim-plug](https://github.com/junegunn/vim-plug), etc.), install the package. For example, I use [Vundle](https://github.com/VundleVim/Vundle.vim), so in my `.vimrc` I'd do:
 
     ```vim
-    Plugin 'megantiu/true.vim'
+    Plugin 'maximumtiu/true.vim'
     ```
 
     and run `:PluginInstall`.
@@ -52,7 +52,7 @@ let ruby_pseudo_operators = 1
 This highlights the Ruby operators. It's a personal preference that I like, but I find it looks nice with this theme.
 
 ## Color palette
-This doesn't include all accent colors, but contains all the main colors used in this theme. See [the palette definition](https://github.com/megantiu/true.vim/blob/master/estilo/palettes/true.yml) for more info.
+This doesn't include all accent colors, but contains all the main colors used in this theme. See [the palette definition](https://github.com/maximumtiu/true.vim/blob/master/estilo/palettes/true.yml) for more info.
 
 Color | Name
 --- | ---
@@ -74,7 +74,7 @@ Color | Name
 
 ## Contributing
 
-This color scheme was originally developed with Ruby and EmberJS in mind, and I'll continue to add more config as I move through my everyday work. If you'd like to see any other language-specific [syntax files](https://github.com/megantiu/true.vim/tree/master/estilo/syntax), please do feel free to fork this repository and open an Pull Request!
+This color scheme was originally developed with Ruby and EmberJS in mind, and I'll continue to add more config as I move through my everyday work. If you'd like to see any other language-specific [syntax files](https://github.com/maximumtiu/true.vim/tree/master/estilo/syntax), please do feel free to fork this repository and open an Pull Request!
 
 ## True Adaptations
 

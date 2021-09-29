@@ -1,8 +1,8 @@
 name: 'true'
 version: '1.0.0'
 license: 'MIT'
-author: 'Megan Tiu'
-url: 'https://github.com/megantiu/true.vim'
+author: 'Max Tiu'
+url: 'https://github.com/maximumtiu/true.vim'
 description: ''
 colorschemes:
   - name: true

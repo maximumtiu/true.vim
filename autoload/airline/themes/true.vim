@@ -1,8 +1,8 @@
 " ============================================================
 " true
 "
-" URL:https://github.com/megantiu/true.vim
-" Author: Megan Tiu
+" URL:https://github.com/maximumtiu/true.vim
+" Author: Max Tiu
 " License: MIT
 " Last Change: 2019/12/30 09:52
 " ============================================================
